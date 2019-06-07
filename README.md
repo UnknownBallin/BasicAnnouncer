@@ -8,7 +8,7 @@ Since this plugin is very straight forward and basic, I don't plan on adding any
 ## ⬇️ Download
 Download the official `.phar` **[here.](https://github.com/UnknownBallin/BasicAnnouncer/releases)**
 
-## 📤 Command
+## 🕹 Command
 | Command | Usage | Permission | Aliases |
 | ------- | ----- | ----------- | ------- |
 | `announce` | `/announce {message}` | `ba.cmd.announce` | `announcement`, `broadcast`, `bcast`, `cast` |
