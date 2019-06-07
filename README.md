@@ -12,3 +12,5 @@ Download the official `.phar` **[here.](https://github.com/UnknownBallin/BasicAn
 | Command | Usage | Permission | Aliases |
 | ------- | ----- | ----------- | ------- |
 | `announce` | `/announce {message}` | `ba.cmd.announce` | `announcement`, `broadcast`, `bcast`, `cast` |
+
+###### *UnknownBallin*
