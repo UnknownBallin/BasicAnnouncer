@@ -1,0 +1,6 @@
+---
+Prefix: "§8[§eANNOUNCER§8]§r"
+
+#Message sent to play who doesn't have permission to use /announce
+NoPermsMessage: "§eYou don't have permission to execute this command."
+...
